@@ -73,8 +73,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 ## STM 32 CUBE PROGRAM :
 
 ### Developed by: S.Sameer
-###Reg.No.:212221240051
-
+### Reg.No.:212221240051
+```
 
 #include "main.h"
 
@@ -161,7 +161,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 }
 #endif
-
+```
 
 
 
