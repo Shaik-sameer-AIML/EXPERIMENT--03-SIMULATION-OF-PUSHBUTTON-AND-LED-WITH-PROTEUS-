@@ -176,7 +176,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![exp--3--2](https://user-images.githubusercontent.com/93427186/234244937-025b6120-cb64-468f-b1c8-be4e7853aedb.png)
 
 
-## Proteus layout(Add pdf screen shot of circuit here)
  
  
  
